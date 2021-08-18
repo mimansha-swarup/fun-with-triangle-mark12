@@ -10,6 +10,7 @@ main {
     text-align: center;
     grid-gap: 1rem;
     max-width: 350px;
+    width: 80%;
     justify-content: center;
 }
 
@@ -40,6 +41,7 @@ main a {
     display: flex;
     flex-direction: column;
     max-width: 600px;
+    width: 70%;
     margin: auto;
 }
 
